@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'EMTSDummyAppTest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2FBFECA9170D450D82B6A2AFCE19CC07 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EFA0924B73FE4A679DCDA5164206B179 }}
           package: .
